@@ -8,8 +8,6 @@
 
 Modern, dinamik renk temalarına (Koyu Lacivert, Açık Krem vb.) sahip, Python ve PyQt5 kullanılarak geliştirilmiş masaüstü Kütüphane Otomasyon ve Yönetim Sistemi. Nesne Yönelimli Programlama (OOP) ve Katmanlı Mimari (Layered Architecture) prensiplerine uygun olarak temiz, modüler ve sürdürülebilir bir yapıda kodlanmıştır.
 
-## 📸 Ekran Görüntüleri
-*(Buraya GitHub'a yüklerken projenin ekran görüntülerini ekleyebilirsiniz)*
 ## 🌟 Özellikler
 
 ### 🛡️ Yetkilendirme ve Rol Yönetimi
